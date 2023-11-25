@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/aleksandre_yushitashvili_react/static/css/main.9c25550d.css",
+    "main.js": "/aleksandre_yushitashvili_react/static/js/main.500bed9a.js",
+    "static/js/787.3c43b16a.chunk.js": "/aleksandre_yushitashvili_react/static/js/787.3c43b16a.chunk.js",
+    "index.html": "/aleksandre_yushitashvili_react/index.html",
+    "main.9c25550d.css.map": "/aleksandre_yushitashvili_react/static/css/main.9c25550d.css.map",
+    "main.500bed9a.js.map": "/aleksandre_yushitashvili_react/static/js/main.500bed9a.js.map",
+    "787.3c43b16a.chunk.js.map": "/aleksandre_yushitashvili_react/static/js/787.3c43b16a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9c25550d.css",
+    "static/js/main.500bed9a.js"
+  ]
+}
